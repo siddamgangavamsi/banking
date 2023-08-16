@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+}
+.body{
+    width: 90%;
+    height: 500px;
+    border: 2px solid black;
+    padding:90px;
+    display:flex;
+}
+.part1{
+    width: 25%;
+    height: 90%;
+    padding: 5px;
+}
+.register{
+    width: 220px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+    padding:12px;
+    color: white;
+    background-color: blue;
+}
+.part2{
+    width: 220px;
+    height:20px;
+    text-align: center;
+    color:black;
+    background-color: white;
+}
+.part3{
+    width: 220px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+    padding:12px;
+    color: white;
+    background-color:rgb(4, 4, 141);
+}
+.part4{
+    width: 220px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+    padding:12px;
+    color: white;
+    background-color:blue;
+}
+.part5{
+    width: 220px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+    padding:12px;
+    color: white;
+    background-color:red;
+}
